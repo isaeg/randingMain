@@ -16,7 +16,7 @@
 * User : isaegad
 * pwd : dltorrhkdrh2023 (이색광고2023)
 *  https://www.gabia.com/
-    * isaegad@gmail.com 계정으로 로그인 => MyGabia => 이용중인 서비스 확인
+    * isaeg.co@gmail.com 계정으로 로그인 => MyGabia => 이용중인 서비스 확인
 * github 계정 ID : isaegad@gmail.com   PWD :!dltorrhkdrh2023(!이색광고2023)
 # 프로세스 
 1. 첫 화면 -> 로그인(Spring Security 적용)  ID : sadmin  PWD : asdf1234!

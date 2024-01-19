@@ -38,6 +38,7 @@
 3. 급하게 만들어서 매출 조회 ( salesTable.html / TeamSalesTable.html) 에 해당하는
    컨트롤러 AdminController 에 몰려있음..
 4. 본래 문의하기  CRUD 용으로 만든 부분이라 나중에 필요 시 리턴 화면만 조정해서 사용하면 됨
+5. 자바스크립트로 10분에 한번 자동 새로고침 되어있음 
 
 # 기타 사항
 1. 피드번호 확인 netstat -ntlp | grep :8080
